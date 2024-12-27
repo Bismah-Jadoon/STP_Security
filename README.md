@@ -99,6 +99,4 @@ Switch(config-if-range)#spanning-tree guard root
 - **BPDU Guard** protects edge ports from malicious or accidental BPDU frames.
 - Always verify configurations with `show spanning-tree` commands to confirm the active topology and port states.
 
---- 
-
-Let me know if you'd like to expand or adjust the content!
+---
