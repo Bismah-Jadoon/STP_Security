@@ -1,8 +1,5 @@
-Here is the README based on the provided instructions:
 
----
-
-### README: RSTP and Spanning Tree Configuration
+###  RSTP and Spanning Tree Configuration
 
 #### Overview
 This project demonstrates the configuration of **Rapid Spanning Tree Protocol (RSTP)** in a network topology to ensure loop-free redundancy, enhance network stability, and enforce security measures such as BPDU Guard and Root Guard.
